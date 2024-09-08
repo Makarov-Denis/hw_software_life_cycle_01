@@ -37,6 +37,22 @@
 
 ![epic8](https://github.com/user-attachments/assets/1a154b82-a7ef-443d-ba8e-77fb4a164862)
 
+4. Переход в Scrum, запланирован новый спринт, состоящий из задач эпика и одного бага, старт спринт, проведение задачи до состояния Closed. Закрытие спринт. Решение представлено на скриншотах ниже:
+
+![scrum1](https://github.com/user-attachments/assets/6722588b-6e56-4905-bb33-963890ee1bb7)
+
+![scrum2](https://github.com/user-attachments/assets/83414945-1b6f-4418-a4dc-e3cf49ef521a)
+
+![scrum3](https://github.com/user-attachments/assets/6e637943-77d6-4b72-bd21-7ffac9aa40bc)
+
+![scrum4](https://github.com/user-attachments/assets/6c91d9e3-b943-49bc-b751-9bbe36d2d126)
+
+
+
+
+
+
+
 
 
 
