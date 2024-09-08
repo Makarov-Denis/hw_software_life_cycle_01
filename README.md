@@ -33,6 +33,8 @@
 
 ![epic7](https://github.com/user-attachments/assets/2a473679-67ee-4445-84e9-e79a278226de)
 
+3.  Задачи были возвращены в статус Open. Решение представлено на скриншоте ниже: 
+
 ![epic8](https://github.com/user-attachments/assets/1a154b82-a7ef-443d-ba8e-77fb4a164862)
 
 
