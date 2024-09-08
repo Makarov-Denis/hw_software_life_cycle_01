@@ -47,7 +47,7 @@
 
 ![scrum4](https://github.com/user-attachments/assets/6c91d9e3-b943-49bc-b751-9bbe36d2d126)
 
-
+5. Выгрузка схемы workflow для импорта в XML. [Файл](SearchRequest.xml) с workflow приложен к решению задания.
 
 
 
